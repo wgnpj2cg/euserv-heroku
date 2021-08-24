@@ -1,0 +1,25 @@
+{
+  "name": "heroku-euserv",
+  "repository": "[https://github.com/...]",
+  "env": {
+    "USERNAME": {
+      "description": "USERNAME",
+      "value": "USERNAME"
+    },
+    "PASSWORD": {
+      "description": "PASSWORD",
+      "value": "PASSWORD"
+    },
+    "TG_BOT_TOKEN": {
+      "description": "TG_BOT_TOKEN",
+      "value": "TG_BOT_TOKEN"
+    },
+    "TG_USER_ID": {
+      "description": "TG_USER_ID",
+      "value": "TG_USER_ID"
+    }
+  },
+  "website": "https://example.com",
+  "stack": "container"
+}
+    
